@@ -3,7 +3,7 @@
 A modern **Online Learning Platform** built with **React (v19)**, **Vite**, and **Tailwind CSS**, designed for learners and instructors to create, manage, and enroll in online courses.  
 It includes features like user authentication (Firebase), course management, enrollment tracking, ratings, reviews, and progress visualization — all wrapped in a sleek, responsive UI.
 
----
+## Live url (https://onlinelearningplatform-jh.netlify.app/)
 
 ## Features
 
