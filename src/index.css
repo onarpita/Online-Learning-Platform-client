@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark, cupcake;
+}
+
+a.active {
+  @apply text-primary;
+}
